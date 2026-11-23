@@ -27,10 +27,10 @@ const CATALOGUE = [
   { type:"Maheshwari Cotton Saree", slug:"maheshwari", price:1000, offer:800, fabric:"Silk cotton, handloom style",
     blurb:"Handloom-style silk cotton with contrast pallus.",
     designs:["Magenta Pink & Bottle Green Pallu with Zari Buttas","Ivory White & Crimson Red Contrast Pallu","Burnt Rust Orange & Forest Green Pallu","Slate Teal Blue & Deep Maroon Contrast Pallu","Midnight Navy Blue with Silver-Gold Zari Stripes","Royal Plum Purple & Jet Black Contrast Pallu","Deep Navy Blue & Ruby Maroon Contrast Pallu","Warm Peach Coral with Gold Floral Buttas","Royal Indigo Violet & Magenta Contrast Pallu","Charcoal Black & Olive Parrot Green Contrast Pallu"] },
-  { type:"Emboss Saree", slug:"emboss", price:850, offer:550, fabric:"Emboss weave",
+  { type:"Emboss Saree", slug:"emboss", price:550, offer:350, fabric:"Emboss weave",
     blurb:"Embossed weaves with zari and jacquard borders.",
     designs:["Deep Maroon & Teal Dual-Tone with Circular Zari Border","Vibrant Tangerine Orange & Plum Geometric Emboss","Berry Brown & Emerald Green Floral Emboss","Peacock Blue & Magenta Figurine Border","Charcoal Black & Ruby Pink Floral Zari Border","Cocoa Brown & Sky Blue Lotus Medallion Border","Copper Rust & Forest Green Floral Jacquard","Cerulean Blue & Crimson Peacock Motif Border","Rose Pink & Royal Violet Floral Emboss","Slate Blue & Cream Petal Emboss with Emerald Border"] },
-  { type:"Poonam Saree with Blouse", slug:"poonam", price:600, offer:500, fabric:"Fancy printed, blouse included",
+  { type:"Poonam Saree with Blouse", slug:"poonam", price:500, offer:300, fabric:"Fancy printed, blouse included",
     blurb:"Fancy printed sarees that come with a blouse piece.",
     designs:["Forest Green with White Butterfly & Floral Print","Midnight Black & Magenta Swan Floral Digital Print","Turquoise Peacock Motif with Rani Pink Border","Rustic Coffee Brown with Pastel Floral Print","Crimson Red & White Bandhani-Butterfly Print","Mauve Wine with Peach & Ivory Rose Print","Deep Plum Purple with Monochrome Floral Print","Ruby Red with White Butterfly & Geometric Border","Olive Green & Off-White Chrysanthemum Burst Print","Brick Red & White Chrysanthemum Burst Print"] }
 ];
